@@ -11,7 +11,7 @@
 # Citation / related publication:
 #   Leaver M, Corti K. Response restraint in relation to bibliographic accuracy: 
 #   An investigation of medical literature summarization across prominent large 
-#   language models. Submitted to The Lancet Digital Health in Sept 2026.
+#   language models. Submitted for peer review in Sept 2026.
 
 ################################################################################
 ################################################################################
