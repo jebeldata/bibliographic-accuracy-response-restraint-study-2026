@@ -1,7 +1,7 @@
 # Jebel: Bibliographic Accuracy versus Response Restraint (2026 Study)
 
 ## Citation
-Leaver M, Corti K. Response restraint in relation to bibliographic accuracy: An investigation of medical literature summarization across prominent large language models. Submitted to The Lancet Digital Health in Sept 2026. (To be updated upon publication). 
+Leaver M, Corti K. Response restraint in relation to bibliographic accuracy: An investigation of medical literature summarization across prominent large language models. Submitted for Peer Review. (To be updated upon publication). 
 
 ## Description
 This repository contains the datasets, analysis code, and license information associated with the above publication. 
